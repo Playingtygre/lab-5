@@ -68,7 +68,7 @@ function sumArray(testArray){
 //   (arraySum);
   var sumArray = testArray + ' was passed in as an array of numbers, and ' + arraySum + ' is their sum.';
   console.log(sumArray);
-  return [arraySum, sumArray];
+  return [arraySum, sumArray]; 
 
 }
 
